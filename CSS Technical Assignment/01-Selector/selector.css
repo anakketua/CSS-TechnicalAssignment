@@ -1,0 +1,11 @@
+
+.highlight {
+    background-color:gainsboro;
+    color:black;
+  }
+  
+  p:hover {
+    background:#E5E7EB;
+    color: black;
+  }
+  

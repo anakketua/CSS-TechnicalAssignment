@@ -1,0 +1,9 @@
+.highlight {
+    background-color: gainsboro;
+    color:#F3F4F6;
+  }
+  
+  p:hover {
+    background:#E5E7EB;
+    color: #111827;
+  }
